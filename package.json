@@ -18,7 +18,7 @@
   "main": "./lib/passport-baidu",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "0.1.x"
+    "passport-oauth": "1.0.x"
   },
   "devDependencies": {
     "vows": "0.6.x"
